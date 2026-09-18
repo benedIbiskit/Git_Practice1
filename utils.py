@@ -1,2 +1,6 @@
-notepad utils.py
-notepad data.txt
+# utils.py
+def greet(name):
+    return f'Hello, {name}!'
+
+def farewell(name):
+    return f'Goodbye, {name}!'
